@@ -3,7 +3,7 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas com muito interesse por tecnologia, desenvolvimento web e soluções que fazem a diferença. Estou aprendendo, praticando e buscando desafios para evoluir constantemente.
 
 📍 Localização: Pescara / Itália  
-📘 Atualmente aprendendo: JavaScript, Python
+📘 Atualmente aprendendo: SAP ABAP language, Python
 
 ---
 
