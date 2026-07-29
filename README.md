@@ -3,7 +3,7 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas com muito interesse por tecnologia, desenvolvimento web e soluções que fazem a diferença. Estou aprendendo, praticando e buscando desafios para evoluir constantemente.
 
 📍 Localização: Pescara / Itália  
-📘 Atualmente aprendendo: SAP ABAP language, Python
+📘 Atualmente aprendendo: SAP BTP + IA, JavaScript
 
 ---
 
@@ -40,22 +40,6 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Svelte" 
-    title="Svelte"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" 
 />
 <img 
     align="left" 
